@@ -9,6 +9,8 @@ const ll MAX_N = 1000001;
 bool data[MAX_N];
 
 int main() {
+	ios::sync_with_stdio(false);
+	
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
 
